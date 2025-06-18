@@ -11054,6 +11054,39 @@
     "tonInfo": null,
     "cardanoInfo": null
   },
+"mosaic_mainnet": {
+    "slug": "mosaic_mainnet",
+    "name": "Mosaic Chain",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "icon": "https://dev.sw-chain-list-assets.pages.dev/assets/chains/mosaic_mainnet.png",
+    "providers": {
+      "Mosaic 1": "wss://gw1.mosaicchain.io/MosaicNode1/chain",
+      "Mosaic 2": "wss://gw2.mosaicchain.io/MosaicNode2/chain"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3377,
+      "genesisHash": "0xe9bb9edbc674faacf806ad9ea66edc3c90a01925723745f9b0ffa060acba3f05",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://explorer.mosaicchain.io/",
+      "existentialDeposit": "10000000000000000",
+      "symbol": "MOS",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
   "jamton": {
     "slug": "jamton",
     "name": "JAMTON",
